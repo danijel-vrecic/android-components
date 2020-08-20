@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.Toast
 import si.hub.android.base.BaseActivity
 import si.hub.android.databinding.ActivityMainBinding
+import si.hub.android.dialog.MessageDialogActivity
 
 class MainActivity : BaseActivity() {
 

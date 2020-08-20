@@ -1,11 +1,11 @@
-package si.hub.android
+package si.hub.android.dialog
 
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import androidx.viewbinding.ViewBinding
+import si.hub.android.base.BaseDialogActivity
 import si.hub.android.databinding.ActivityMessageDialogBinding
-import si.hub.android.dialog.BaseDialogActivity
 
 class MessageDialogActivity : BaseDialogActivity() {
     private val binding: ActivityMessageDialogBinding by lazy {

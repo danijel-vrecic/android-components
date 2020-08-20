@@ -1,4 +1,4 @@
-package si.hub.android.dialog
+package si.hub.android.base
 
 import android.animation.Animator
 import android.animation.ObjectAnimator
@@ -8,7 +8,6 @@ import android.view.View
 import android.view.animation.AnimationUtils
 import androidx.viewbinding.ViewBinding
 import si.hub.android.R
-import si.hub.android.base.BaseActivity
 import si.hub.android.databinding.ActivityBaseDialogBinding
 import si.hub.android.util.UIUtil
 

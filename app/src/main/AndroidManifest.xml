@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MessageDialogActivity"
+            android:name=".dialog.MessageDialogActivity"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme.Dialog" />
     </application>
