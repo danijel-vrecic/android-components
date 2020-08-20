@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material specs. margins -->
+    <dimen name="material_tiny_margin">4dp</dimen>
+    <dimen name="material_small_margin">8dp</dimen>
+    <dimen name="material_normal_margin">16dp</dimen>
+    <dimen name="material_medium_margin">24dp</dimen>
+    <dimen name="material_large_margin">32dp</dimen>
+    <dimen name="material_larger_margin">40dp</dimen>
+    <dimen name="material_huge_margin">48dp</dimen>
+
+    <!-- Base dialog -->
+    <dimen name="dialog_button_container_height">52dp</dimen>
+    <dimen name="dialog_elevation">24dp</dimen>
+    <dimen name="dialog_content_max_width">540dp</dimen>
+    <dimen name="dialog_radius">2dp</dimen>
+
+</resources>
